@@ -1,0 +1,29 @@
+# InstaGen AI - Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core Framework
+streamlit>=1.46.0
+
+# AI & API Integration
+openai>=1.96.0
+requests>=2.32.0
+
+# Image Processing
+Pillow>=11.3.0
+numpy>=2.3.0
+
+# Environment Variables
+python-dotenv>=1.1.0
+
+# Data Handling (included with streamlit)
+# pandas>=2.3.0
+# json (built-in)
+# datetime (built-in)
+# os (built-in)
+# io (built-in)
+# base64 (built-in)
+
+# Optional: Additional packages for future features
+# matplotlib>=3.8.0
+# seaborn>=0.13.0
+# plotly>=5.17.0
